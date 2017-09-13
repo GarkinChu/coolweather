@@ -3,6 +3,7 @@ package com.example.garkin.coolweather.db;
 import org.litepal.crud.DataSupport;
 
 /**
+ * 省的数据信息
  * Created by Garkin on 2017/9/8.
  */
 
